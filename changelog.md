@@ -1,3 +1,28 @@
+## 0.0.369 - 2025-12-11
+
+- Add support for GPT-5.2
+
+## 0.0.368 - 2025-12-10
+
+- PRU usage rates now displayed correctly
+- Fix checkmark and x icon rendering
+- Add grep tool Codex models
+- Numpad keys work in prompts with Kitty keyboard protocol
+
+## 0.0.367 - 2025-12-04
+
+- GPT-5.1-Codex-Max is now available in GitHub Copilot CLI
+
+## 0.0.366 - 2025-12-03
+
+- Add `infer` property to control custom agent tool visibility
+- Add CLI executables to GitHub release artifacts
+- Add apply_patch toolchain for OpenAI Codex models
+
+## 0.0.365 - 2025-11-25
+
+- Add `--silent` option to suppress stats output for scripting
+
 ## 0.0.364 - 2025-11-25
 
 - Add syntax highlighting for diffs
